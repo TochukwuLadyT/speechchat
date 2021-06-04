@@ -1,0 +1,1 @@
+web: gunicorn main.wgsi --log-file -
